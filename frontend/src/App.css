@@ -1,0 +1,27 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+  padding-top: 64px; /* Height of navbar */
+  padding-bottom: 64px; /* Height of footer */
+}
+
+.main-content.auth-page {
+  padding: 0; /* Remove padding for auth pages */
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Responsive padding */
+@media (max-width: 600px) {
+  .main-content {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}

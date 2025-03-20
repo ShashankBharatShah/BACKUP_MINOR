@@ -1,0 +1,2 @@
+client id-e05d682d020d473eaa9d64b40b962b68
+secret-bcb9c03eb93d4cd2af1a3c2354008f1c
