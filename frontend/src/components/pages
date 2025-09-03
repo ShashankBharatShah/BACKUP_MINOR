@@ -1,0 +1,19 @@
+<script>start("c:\\Users\\KIIT\\Downloads\\BACKUP_MINOR\\BACKUP_MINOR\\frontend\\src\\pages\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("admin","admin",1,0,"0 B",1741883118,"3/13/25, 9:55:18 PM");</script>
+<script>addRow("AdminDashboard.js","AdminDashboard.js",0,8097,"7.9 kB",1742051722,"3/15/25, 8:45:22 PM");</script>
+<script>addRow("AdminLogin.js","AdminLogin.js",0,6332,"6.2 kB",1741934230,"3/14/25, 12:07:10 PM");</script>
+<script>addRow("AdminSignup.js","AdminSignup.js",0,8064,"7.9 kB",1741934586,"3/14/25, 12:13:06 PM");</script>
+<script>addRow("Assessment.js","Assessment.js",0,17083,"16.7 kB",1742145992,"3/16/25, 10:56:32 PM");</script>
+<script>addRow("Community.js","Community.js",0,13931,"13.6 kB",1742145406,"3/16/25, 10:46:46 PM");</script>
+<script>addRow("CopingStrategies.js","CopingStrategies.js",0,4238,"4.1 kB",1741588452,"3/10/25, 12:04:12 PM");</script>
+<script>addRow("Home.js","Home.js",0,8677,"8.5 kB",1741698840,"3/11/25, 6:44:00 PM");</script>
+<script>addRow("Journal.js","Journal.js",0,2173,"2.1 kB",1741588338,"3/10/25, 12:02:18 PM");</script>
+<script>addRow("Landing.js","Landing.js",0,7638,"7.5 kB",1741934736,"3/14/25, 12:15:36 PM");</script>
+<script>addRow("Login.js","Login.js",0,5845,"5.7 kB",1741934718,"3/14/25, 12:15:18 PM");</script>
+<script>addRow("Progress.js","Progress.js",0,17791,"17.4 kB",1742146370,"3/16/25, 11:02:50 PM");</script>
+<script>addRow("ResourceDetail.js","ResourceDetail.js",0,4724,"4.6 kB",1742055378,"3/15/25, 9:46:18 PM");</script>
+<script>addRow("Resources.js","Resources.js",0,11577,"11.3 kB",1742053454,"3/15/25, 9:14:14 PM");</script>
+<script>addRow("Results.js","Results.js",0,4320,"4.2 kB",1741886416,"3/13/25, 10:50:16 PM");</script>
+<script>addRow("Signup.js","Signup.js",0,7266,"7.1 kB",1741695360,"3/11/25, 5:46:00 PM");</script>
+<script>addRow("UserProfile.js","UserProfile.js",0,10108,"9.9 kB",1742146686,"3/16/25, 11:08:06 PM");</script>
